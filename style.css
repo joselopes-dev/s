@@ -83,7 +83,7 @@ h3{
   transform: rotateY(180deg);
 }
 
-@media (min-width: 300px){
+@media (min-width: 400px){
   .memory-game{
     width:90%;
     height: 60%;
@@ -176,7 +176,7 @@ h3{
   .memory-card{
     width: 100px;
     height: 100px;
-    margin: t;
+    margin: 15px;
   }
   .front-face,
   .back-face{
