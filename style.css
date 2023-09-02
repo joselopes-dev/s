@@ -121,6 +121,37 @@ h3{
   
 }
 
+@media (max-width: 750px){
+  .memory-game{
+    width:90%;
+    height: 60%;
+  }
+  .memory-card{
+    width: 220px;
+    height: 220px;
+    margin: 5px;
+  }
+  .front-face,
+  .back-face{
+    padding: 5px;
+  }
+  .header {
+    width: 80%;
+    text-align: center;
+  }
+
+  .titulo{
+    text-align: center;
+    font-size: 40px;
+  }
+
+  .subtitulo {
+    padding: 5%;
+    font-size: 30px;
+  }
+  
+}
+
 
 @media (min-width: 1200px){
   .memory-game{
