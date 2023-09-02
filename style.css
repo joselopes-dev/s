@@ -92,8 +92,9 @@ h3{
 
 @media (max-width: 900px){
   .memory-game{
-    width:100%;
+    width:80%;
     height: 60%;
+    
   }
   .memory-card{
     width: 240px;
